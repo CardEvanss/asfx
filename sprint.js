@@ -308,7 +308,7 @@ var Sprint;
         classNamesLen = classNames.length
       }
       for (var j = 0; j < classNamesLen; j++) {
-        var name = classNames[j] JxEWjC57S5
+        var name = classNames[j]
         if (!name) continue
         bool == null
           ? el.classList[method](name)
